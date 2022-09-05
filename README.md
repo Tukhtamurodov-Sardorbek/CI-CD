@@ -11,4 +11,4 @@
 > though the deployments are triggered manually.
 
 
-- [Flutter action](https://github.com/marketplace/actions/flutter-action)
+- [Flutter action environment](https://github.com/marketplace/actions/flutter-action)
