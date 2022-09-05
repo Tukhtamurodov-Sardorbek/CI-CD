@@ -9,3 +9,6 @@
 > Our application is not only built and tested at every code change pushed to the codebase,
 > but as an additional step, it’s also deployed continuously,
 > though the deployments are triggered manually.
+
+
+- [Flutter action](https://github.com/marketplace/actions/flutter-action)
