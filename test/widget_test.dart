@@ -22,7 +22,7 @@ void main() {
     expect(find.text('1'), findsOneWidget);
 
 
-    // Check if our app has a text 'set State'.
-    expect(find.text('You have pushed the button this many times:'), findsNothing);
+    // Check if our app has a text 'You have pushed the button this many times:'.
+    expect(find.text('You have pushed the button this many times:'), findsOneWidget);
   });
 }
