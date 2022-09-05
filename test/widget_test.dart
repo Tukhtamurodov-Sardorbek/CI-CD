@@ -23,6 +23,6 @@ void main() {
 
 
     // Check if our app has a text 'set State'.
-    expect(find.text('set State'), findsOneWidget);
+    expect(find.text('You have pushed the button this many times:'), findsNothing);
   });
 }
